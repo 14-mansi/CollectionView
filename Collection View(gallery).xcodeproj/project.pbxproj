@@ -13,6 +13,7 @@
 		5FDE59D527CDF6E50095E9F1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5FDE59D327CDF6E50095E9F1 /* Main.storyboard */; };
 		5FDE59D727CDF6E60095E9F1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5FDE59D627CDF6E60095E9F1 /* Assets.xcassets */; };
 		5FDE59DA27CDF6E60095E9F1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5FDE59D827CDF6E60095E9F1 /* LaunchScreen.storyboard */; };
+		5FDE59E227CDF7440095E9F1 /* CollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FDE59E127CDF7440095E9F1 /* CollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		5FDE59D627CDF6E60095E9F1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5FDE59D927CDF6E60095E9F1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5FDE59DB27CDF6E60095E9F1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5FDE59E127CDF7440095E9F1 /* CollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				5FDE59CF27CDF6E50095E9F1 /* SceneDelegate.swift */,
 				5FDE59D127CDF6E50095E9F1 /* ViewController.swift */,
 				5FDE59D327CDF6E50095E9F1 /* Main.storyboard */,
+				5FDE59E127CDF7440095E9F1 /* CollectionViewCell.swift */,
 				5FDE59D627CDF6E60095E9F1 /* Assets.xcassets */,
 				5FDE59D827CDF6E60095E9F1 /* LaunchScreen.storyboard */,
 				5FDE59DB27CDF6E60095E9F1 /* Info.plist */,
@@ -140,6 +143,7 @@
 			files = (
 				5FDE59D227CDF6E50095E9F1 /* ViewController.swift in Sources */,
 				5FDE59CE27CDF6E50095E9F1 /* AppDelegate.swift in Sources */,
+				5FDE59E227CDF7440095E9F1 /* CollectionViewCell.swift in Sources */,
 				5FDE59D027CDF6E50095E9F1 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
